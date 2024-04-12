@@ -3,8 +3,8 @@ Dynamics 365 Copilot is a cloud-based service that helps you create, manage, and
 In this lab, you will learn how to use Copilot to create a simple chatbot that can answer questions about a fictional travel agency. You will also learn how to test, publish, and monitor your chatbot using the Copilot portal and the Copilot app.
 ## Prerequisites
 To complete this lab, you will need the following:
-- A Microsoft account. If you don't have one, you can create one for free [here]([URL]).
-- A Dynamics 365 Copilot subscription. You can sign up for a free trial [here]([URL]).
+- A Microsoft account. If you don't have one, you can create one for free - https://signup.live.com.
+- A Dynamics 365 Copilot subscription. You can sign up for a free trial - https://dynamics.microsoft.com/en-in/dynamics-365-free-trial/.
 - A computer with a web browser and an internet connection.
 ## Lab Overview
 This lab consists of four exercises:
