@@ -1,31 +1,40 @@
-# Introduction to Dynamics 365 Copilot
-Dynamics 365 Copilot is a cloud-based service that helps you create, manage, and optimize conversational AI applications for your business scenarios. With Copilot, you can build chatbots, voice assistants, and virtual agents that can interact with your customers and employees across multiple channels and devices.
-In this lab, you will learn how to use Copilot to create a simple chatbot that can answer questions about a fictional travel agency. You will also learn how to test, publish, and monitor your chatbot using the Copilot portal and the Copilot app.
-## Prerequisites
-To complete this lab, you will need the following:
-- A Microsoft account. If you don't have one, you can create one for free - https://signup.live.com.
-- A Dynamics 365 Copilot subscription. You can sign up for a free trial - https://dynamics.microsoft.com/en-in/dynamics-365-free-trial/.
-- A computer with a web browser and an internet connection.
-## Lab Overview
-This lab consists of four exercises:
-- Exercise 1: Create a Copilot project and a chatbot
-- Exercise 2: Add intents and entities to your chatbot
-- Exercise 3: Add dialogs and responses to your chatbot
-- Exercise 4: Test, publish, and monitor your chatbot
-You can complete each exercise in about 15 minutes. You can also skip or revisit any exercise as you wish.
-## Exercise 1: Create a Copilot project and a chatbot
-In this exercise, you will create a Copilot project and a chatbot for your travel agency scenario. A project is a container for your chatbot and other resources, such as intents, entities, dialogs, and channels. A chatbot is a conversational AI application that can understand and respond to user inputs.
-To create a project and a chatbot, follow these steps:
-1. Open your web browser and go to specific URL.
-2. Sign in with your Microsoft account and your Copilot subscription.
-3. On the Copilot portal, click **Create project**.
-4. On the **Create project** page, enter a name for your project, such as **TravelBot**.
-5. Select a language for your project, such as **English**.
-6. Click **Create**.
-7. On the **Project dashboard** page, click **Create chatbot**.
-8. On the **Create chatbot** page, enter a name for your chatbot, such as **TravelBot**.
-9. Select a template for your chatbot, such as **Blank**.
-10. Click **Create**.
-11. On the **Chatbot dashboard** page, you will see your chatbot and its components, such as intents, entities, dialogs, and channels. You can also see a preview of your chatbot on the right side of the page. You can use the preview to test your chatbot as you build it.
-You have successfully created a Copilot project and a chatbot. In the next exercise, you will add intents and entities to your chatbot.
+# Getting Started with Copilot in Dynamics 365
+Copilot is a feature of Dynamics 365 that helps you work smarter and faster by providing AI-powered suggestions and insights based on your data and activities. With Copilot, you can:
+- Get personalized recommendations for the next best action to take with your customers, leads, and opportunities.
+- Discover new insights and trends from your data using natural language queries and interactive charts.
+- Access relevant information and resources from across your organization and the web.
+- Receive timely and contextual tips and tricks to optimize your Dynamics 365 experience.
+In this hands-on lab, you will learn how to enable and use Copilot in Dynamics 365. You will need a Dynamics 365 account with administrator privileges and access to the internet.
+## Step 1: Enable Copilot
+Before you can use Copilot, you need to enable it in your Dynamics 365 settings. To do this, follow these steps:
+- Sign in to your Dynamics 365 account and go to the **Settings** menu.
+- Select **AI Builder** and then **Copilot**.
+- On the Copilot page, toggle the switch to **On**.
+- Review the terms and conditions and click **Accept**.
+- Wait for a few minutes while Copilot is activated for your organization.
+## Step 2: Access Copilot
+Once Copilot is enabled, you can access it from any Dynamics 365 app that supports it, such as Sales, Customer Service, or Marketing. To access Copilot, follow these steps:
+- Open the Dynamics 365 app that you want to use.
+- On the top right corner of the app, click the **Copilot** icon. It looks like a light bulb with a smiley face.
+- A sidebar will open on the right side of the screen, showing the Copilot interface.
+- You can resize, minimize, or close the sidebar as needed.
+## Step 3: Use Copilot
+Copilot has four main tabs that you can use to interact with it: **Actions**, **Insights**, **Search**, and **Tips**. Each tab provides different features and functionalities that can help you with your tasks and goals. To use Copilot, follow these steps:
+- On the Copilot sidebar, select the tab that you want to use.
+- Depending on the tab, you will see different options and inputs that you can use to get suggestions and insights from Copilot.
+- For example, on the **Actions** tab, you can see a list of recommended actions that Copilot suggests for you based on your data and activities. You can click on an action to see more details and execute it.
+- On the **Insights** tab, you can ask Copilot questions about your data using natural language and see interactive charts and graphs that answer your queries. You can also explore predefined insights that Copilot generates for you based on your role and app.
+- On the **Search** tab, you can search for information and resources from across your organization and the web using keywords or natural language. Copilot will show you relevant results from your Dynamics 365 data, documents, emails, websites, and more.
+- On the **Tips** tab, you can see tips and tricks that Copilot provides to help you optimize your Dynamics 365 experience. You can also give feedback to Copilot and rate its suggestions and insights.
+## Step 4: Customize Copilot
+You can customize Copilot to suit your preferences and needs. To customize Copilot, follow these steps:
+- On the Copilot sidebar, click the **Settings** icon. It looks like a gear.
+- On the Settings page, you can change various options and preferences for Copilot, such as:
+- The language and voice that Copilot uses to communicate with you.
+- The data sources and apps that Copilot can access and use for suggestions and insights.
+- The notifications and alerts that Copilot sends to you.
+- The feedback and ratings that you provide to Copilot.
+- After making any changes, click **Save** to apply them.
+## Conclusion
+You have successfully completed the hands-on lab on getting started with Copilot in Dynamics 365. You have learned how to enable, access, use, and customize Copilot, a feature that provides AI-powered suggestions and insights to help you work smarter and faster. You can now explore Copilot further and discover how it can assist you with your tasks and goals in Dynamics 365.
 
